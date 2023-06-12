@@ -1,0 +1,22 @@
+img{
+    width: 300px;
+}
+.like-button{
+    color: rgb(240, 241, 243);
+    background-color: rgb(69, 68, 133);
+    border-radius: 9px;
+    display: flex;
+    width: 95px;
+}
+
+.like-button.liked {
+    background-color: gray;
+  }
+
+.description-button{
+    color: white;
+    background-color: rgb(69, 68, 133);
+    border-radius: 9px;
+    display: flex;
+    width: 95px;
+}
